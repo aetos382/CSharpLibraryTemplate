@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "shipjs": "0.24.2"
+  },
+  "scripts": {
+    "release": "shipjs prepare"
+  }
+}
